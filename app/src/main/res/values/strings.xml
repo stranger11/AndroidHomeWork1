@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="text1">ПЕРВЫЙ ЭКРАН</string>
+    <string name="button1">Поделиться сообщением</string>
+    <string name="text2">ВТОРОЙ ЭКРАН</string>
+    <string name="button2">Перейти на второй экран</string>
+</resources>

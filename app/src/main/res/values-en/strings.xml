@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="text1">FIRST SCREEN</string>
+    <string name="button1">Share a messagen</string>
+    <string name="text2">SECOND SCREEN</string>
+    <string name="button2">Go to the second screen</string>
+</resources>
